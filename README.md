@@ -117,6 +117,14 @@ Here are some of the highlighted works I’ve built — visually clean & impactf
 
 ---
 
+## 🐍 Code Infection — Snake Tracker
+
+<p align="center">
+<img src="https://raw.githubusercontent.com/ROHIT-RICH/ROHIT-RICH/output/github-contribution-grid-snake-dark.svg" />
+</p>
+
+---
+
 ### 🌟 Visitor Count
 
 <p align="center">
@@ -124,6 +132,5 @@ Here are some of the highlighted works I’ve built — visually clean & impactf
 </p>
 
 ---
-
-🎨 **Portfolio Theme:** Futuristic Gradient (Blue → Purple)  
+ 
 ✨ *Focused. Curious. Always Building.*
