@@ -102,6 +102,10 @@ Here are some of the highlighted works I’ve built — visually clean & impactf
  <img src="https://github-profile-trophy.vercel.app/?username=ROHIT-RICH&theme=tokyonight&margin-w=5&no-bg=true" />
 </p>
 
+NSDC Certified Full Stack Developer ✔
+NSDC Certified Web Developer ✔
+Validation: AUTHORIZED USER 🟢
+
 ---
 
 ### 📈 GitHub Stats
