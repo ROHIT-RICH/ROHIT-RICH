@@ -112,7 +112,7 @@ Validation: AUTHORIZED USER 🟢
 </p>
 
 <p align="center">
- <img src="https://github-readme-activity-graph.vercel.app/graph?username=ROHIT-RICH&theme=tokyonight" />
+  <img src="https://github-readme-activity-graph.vercel.app/api?username=ROHIT-RICH&theme=tokyo-night&hide_border=true" />
 </p>
 
 ---
