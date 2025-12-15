@@ -11,27 +11,13 @@ permissions:
 jobs:
   generate:
     runs-on: ubuntu-latest
-
     steps:
-      # ✅ REQUIRED: checkout repo
-      - name: Checkout repository
-        uses: actions/checkout@v4
-
-      # 🐍 Generate snake SVGs
-      - name: Generate snake
+      - name: Generate contribution snake
         uses: Platane/snk@v3
         with:
           github_user_name: ROHIT-RICH
           outputs: |
-            dist/github-contribution-grid-snake.svg
-            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
-
-      # 🚀 Commit & push to output branch
-     - name: Push snake to output branch
-        uses: EndBug/add-and-commit@v9
-        with:
-          message: "Generate contribution snake"
-          add: "dist/*.svg"
-          new_branch: output
-          default_author: github_actions
-
+            output/github-contribution-grid-snake.svg
+            output/github-contribution-grid-snake-dark.svg?palette=github-dark
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
