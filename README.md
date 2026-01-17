@@ -120,7 +120,7 @@ Validation: AUTHORIZED USER 🟢
 ## 🐍 Code Infection — Snake Tracker
 
 <p align="center">
-<img src="https://raw.githubusercontent.com/ROHIT-RICH/ROHIT-RICH/output/github-contribution-grid-snake-dark.svg" />
+<img src="https://raw.githubusercontent.com/ROHIT-RICH/ROHIT-RICH/output/github-snake-dark.svg" />
 </p>
 
 ---
