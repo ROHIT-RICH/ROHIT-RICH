@@ -120,7 +120,7 @@ Validation: AUTHORIZED USER 🟢
 ## 🧬 Contribution DNA
 
 <p align="center">
-<picture>
+  <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ROHIT-RICH/ROHIT-RICH/output/dna-dark.svg">
     <img alt="Contribution DNA animation" src="https://raw.githubusercontent.com/ROHIT-RICH/ROHIT-RICH/output/dna.svg">
   </picture>
