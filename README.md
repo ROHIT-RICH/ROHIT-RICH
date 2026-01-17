@@ -107,12 +107,12 @@ Validation: AUTHORIZED USER 🟢
 ### 📈 GitHub Stats
 
 <p align="center">
- <img src="https://github-readme-stats.vercel.app/api?username=ROHIT-RICH&show_icons=true&theme=tokyonight" height="160" />
- <img src="https://github-readme-streak-stats.herokuapp.com/?user=ROHIT-RICH&theme=tokyonight" height="160" />
+ <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=ROHIT-RICH&show_icons=true&theme=tokyonight" height="160" />
+ <img src="https://streak-stats.demolab.com?user=ROHIT-RICH&theme=tokyonight" height="160" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/api?username=ROHIT-RICH&theme=tokyo-night&hide_border=true" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ROHIT-RICH&theme=tokyonight" />
 </p>
 
 ---
