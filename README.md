@@ -117,13 +117,10 @@ Validation: AUTHORIZED USER 🟢
 
 ---
 
-## 🐍 Code Infection — Snake Tracker
+## 🧬 Contribution DNA
 
 <p align="center">
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ROHIT-RICH/ROHIT-RICH/output/dist/github-contribution-grid-snake-dark.svg">
-  <img alt="Snake animation" src="https://raw.githubusercontent.com/ROHIT-RICH/ROHIT-RICH/output/dist/github-contribution-grid-snake.svg">
-</picture>
+<img src="https://raw.githubusercontent.com/ROHIT-RICH/ROHIT-RICH/output/dist/dna.svg?v=1" />
 
 </p>
 
